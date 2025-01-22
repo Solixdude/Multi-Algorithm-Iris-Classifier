@@ -34,3 +34,8 @@ Files
 
     iris_classifier.py: Main script that performs data loading, model training, evaluation, and saving/loading the best model.
     iris_best_model.pkl: Saved model file for the best-performing algorithm.
+
+License
+
+This project is licensed under the MIT License.
+
